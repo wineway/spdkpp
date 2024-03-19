@@ -1,0 +1,4 @@
+[submodule "build/spdk"]
+	path = build/spdk
+	url = https://github.com/spdk/spdk.git
+	branch = master
